@@ -1,5 +1,9 @@
 /* Main */
 
+.resume {
+  background-color: #ebeef2;
+}
+
 .resume-container {
   display: flex;
   flex-direction: column;
